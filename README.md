@@ -23,7 +23,7 @@ The purpose of the "system-Verilog-practice" repo is to contain some system Veri
 
 ## Pending
 
-##Other_content_to_check
+## Other_content_to_check
 other content to check: https://nandland.com/lesson-15-what-is-a-block-ram-bram/
 
 ## License
