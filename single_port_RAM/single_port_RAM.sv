@@ -1,5 +1,4 @@
 // https://www.edaplayground.com/x/PAJ8
-// Code your design here
 /* 
  * Random Access Memory (RAM) with
  * 1 read port and 1 write port
@@ -23,10 +22,10 @@ module ram (clk_write, address_write,
   input  [A_WIDTH-1:0] address_read;
   output [D_WIDTH-1:0] data_read;
   
-  reg    [D_WIDTH-1:0] data_read;
+  logic    [D_WIDTH-1:0] data_read;
   
   // Memory as multi-dimensional array
-  reg [D_WIDTH-1:0] memory [A_MAX-1:0];
+  logic [D_WIDTH-1:0] memory [A_MAX-1:0];
 
   // Write data to memory
   always @(posedge clk_write) begin
