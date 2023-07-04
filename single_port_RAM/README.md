@@ -1,1 +1,1 @@
-![blocks diagram](single_port_RAM/block-ram-single-port.png)
+![blocks diagram](block-ram-single-port.png)
