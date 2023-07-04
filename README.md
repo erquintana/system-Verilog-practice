@@ -4,13 +4,14 @@ The purpose of the "system-Verilog-practice" repo is to contain some system Veri
 ![blocks diagram]()
 
 ## Table of Contents
-
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Pending](#pending)
+- [Other content to check](#Other_content_to_check)
 - [License](#license)
+
 
 ## Features
 
@@ -21,6 +22,9 @@ The purpose of the "system-Verilog-practice" repo is to contain some system Veri
 ## Contributing
 
 ## Pending
+
+##Other_content_to_check
+other content to check: https://nandland.com/lesson-15-what-is-a-block-ram-bram/
 
 ## License
 
